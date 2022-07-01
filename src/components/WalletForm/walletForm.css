@@ -1,0 +1,32 @@
+.create {
+  background-color: #262b33;
+  color: #ddd;
+  padding: 30px 20px;
+}
+
+.create label {
+  font-size: 16px;
+  padding-right: 8px;
+}
+
+.create label input , .create label select {
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-left: 10px;
+  padding: 8px;
+  width: 140px;
+}
+
+.create button {
+  background-color: #007bfe;
+  border: none;
+  border-radius: 8px;
+  color: #eee;
+  cursor: pointer;
+  font-size: 16px;
+  margin: 5px;
+  padding: 10px;
+  transition: 0.2s ease-in-out;
+}

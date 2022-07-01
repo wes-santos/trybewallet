@@ -1,0 +1,19 @@
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+header h1 {
+  color: #03a86c;
+  font-size: 42px;
+  text-transform: uppercase;
+}
+
+.user-info {
+  display: flex;
+  font-size: 18px;
+  gap: 50px;
+  grid-gap: 50px;
+}
