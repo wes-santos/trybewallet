@@ -21,7 +21,7 @@
     "redux-thunk": "2.3.0",
     "stylelint-order": "4.1.0"
   },
-  "home": "https://wes-santos.github.io/trybewallet",
+  "homepage": "https://wes-santos.github.io/trybewallet",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
